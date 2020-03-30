@@ -1,0 +1,19 @@
+body {
+background:lightblue;
+font-family: arial;
+
+}
+header{
+background: #999;
+color: white;}
+h1, h2, h3{
+    color: #555;
+}
+a {
+    background: rgb(146, 144, 255) ;
+    color: crimson
+   padding: 10px;
+}
+ #special{
+     background: orangered
+ }

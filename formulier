@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>wishulp</title>
+</head>
+<body>
+<h2> formulier<em></em></h2>
+ <div class="main">
+voor dat je het formulier invult is het handig om eerst "over ons" te lezen daar staat alle info die je nodig hebt.
+<ol>
+  <li>over ons</li>
+  <li>contact</li>
+    <li>home</li>
+</ol>
+   </div>
+</body>
+</html>
+
